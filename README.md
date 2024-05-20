@@ -8,7 +8,7 @@
 </center>
 <center>
 <h1>About me </h1>
-<img  align="right" alt="GIF" src="https://github.com/macsimir/macsimir/blob/master/one.gif">
+<img  align="right" hight="320" width="450" alt="GIF" src="https://github.com/macsimir/macsimir/blob/master/one.gif">
 </center>
 
 <!-- - 16 y.o -->
