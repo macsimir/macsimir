@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <center>
-<h style="display: inline-block;">Hi 👋, I'm Maxim</h>
+<h1 style="display: inline-block;">Hi 👋, I'm Maxim</h1>
 <center>
 <center>
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
