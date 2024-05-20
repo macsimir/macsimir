@@ -29,22 +29,29 @@
 
   # My skill :
 
-<p>
- </br>
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/one.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/macsimir/macsimir/one.gif">
 
 
 I am a full-stack developer, I also write bots and scripts in Python.
 
 
 
+<h3>back-end:<h3>
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,discord,bots,docker,git,linux,vscode)](https://vk.com)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,bash,js,bootstrap,django,discord,bots,docker,git,github,gmail,linkedin,linux,md,vscode)](https://vk.com)
+<h3>front-end:<h3>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,md)](https://vk.com)
 
+discord
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,bootstrap,django,discord,bots,docker,git,github,gmail,linkedin,linux,md,vscode)](https://vk.com)
+
+bash
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=macsimir&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
