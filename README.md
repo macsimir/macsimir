@@ -8,6 +8,7 @@
 </center>
 <center>
 <h1>About me </h1>
+<img  align="right" alt="GIF" src="https://github.com/macsimir/macsimir/blob/master/one.gif">
 </center>
 
 <!-- - 16 y.o -->
@@ -30,7 +31,6 @@
 
 
 
-<img  align="right" alt="GIF" src="https://github.com/macsimir/macsimir/blob/master/one.gif">
 
 
 I am a full-stack developer, I also write bots and scripts in Python.
