@@ -26,8 +26,6 @@
 - 📫 Feel free to reach me out **[Email](mailto:ulanaitbay67@gmail.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269) | [Discord](macsimir)**
   
 
-!Afhk13715
-
   # My skill :
 
 <p>
