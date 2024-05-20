@@ -25,13 +25,12 @@
 - 📫 Feel free to reach me out **[Email](mailto:ulanaitbay67@gmail.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269) | [Discord](macsimir)**
   
 
-!Afhk13715
 
   # My skill :
 
 
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/macsimir/macsimir/one.gif">
+<img  align="right" alt="GIF" src="https://github.com/macsimir/macsimir/blob/master/one.gif">
 
 
 I am a full-stack developer, I also write bots and scripts in Python.
