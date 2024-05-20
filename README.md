@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **with python**
 
-- 📫 Feel free to reach me out **[Email](mailto:ulanaitbay67@gmail.com) | [Telegram](https://enganese.t.me) | [Whatsapp](https://wa.me/+77083080269) | [Discord](macsimir)**
+- 📫 Feel free to reach me out **[Email](mailto:shuravinmacsim@yandex.ru) | [Telegram](https://darkness1xd.t.me) | [Whatsapp](https://wa.me/+79304220940) | [Discord](macsimir)**
   
 
 <h1>My skill :<h3>
