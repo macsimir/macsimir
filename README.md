@@ -1,8 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3>
-  <ul align="center" style="font-size: 30px;">
-    <summary><h3 style="display: inline-block;font_size: 40px;">Hi 👋, I'm Maxim</h3></summary>
-  </ul>
+<center>
+<h style="display: inline-block;">Hi 👋, I'm Maxim</h>
+<center>
 <center>
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg"
        alt="snake" />
