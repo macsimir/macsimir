@@ -10,7 +10,7 @@
 <h1>About me </h1>
 </center>
 
-- 16 y.o
+<!-- - 16 y.o -->
 
 - 🔭 I’m currently working on **Python**.
 
