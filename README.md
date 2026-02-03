@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Codewars](https://www.codewars.com/users/darkness1/badges/large)
 <!--
 **macsimir/macsimir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
